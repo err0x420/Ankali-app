@@ -64,8 +64,7 @@ int titles() {
     printf (GREEN"|/_/   \\_\\_| |_| |_|\\_\\/_/   \\_\\_____|___| |\n");
     printf (BLUE"|++++++++++++++++++An kail+++++++++++++++++|\n");
     printf ("|                                          |\n");
-    printf (YELLOW"| https://github.com/sansjtw1/Ankali-app   |\n");
-    printf (YELLOW"| https://gitee.com/sansjtw/Ankali-app     |\n");
+    printf (YELLOW"| https://github.com/err0x420/Ankali-app   |\n");
     printf ("|                                          |\n");
     printf (RED" ------------------------------------------ \n");
     printf (YELLOW"\nAnkali Documentation: https://ankali-docs.netlify.app/");
